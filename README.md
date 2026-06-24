@@ -187,9 +187,9 @@ The Streamlit app includes:
 
 ## Author
 
-**[Your Name]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- Email: your.email@example.com
+NEEHA BHOYAR
+- LinkedIn: https://www.linkedin.com/in/neha-bhoyar-763b13413/
+- Email: bhoyarneha815@gmail.com
 
 ---
 
